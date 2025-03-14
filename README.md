@@ -21,9 +21,8 @@
 
 - <img alt="GIF" src="https://github.com/DittKanaeru/.github/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **gaming** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/DittKanaeru/.github/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* how to **Expert in Java Script** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/DittKanaeru/.github/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍 projects**.
+- <img alt="GIF" src="https://github.com/DittKanaeru/.github/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **javascript projects**.
 - <img alt="GIF" src="https://github.com/DittKanaeru/.github/blob/master/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/DittKanaeru/.github/blob/master/Assets/happy.gif" width="20px" /> *Ask me* about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/DittKanaeru/.github/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
 
